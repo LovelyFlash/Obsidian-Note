@@ -176,11 +176,10 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64ab2f235d9326a6",
+  "active": "0b68f3768e312205",
   "lastOpenFiles": [
     "未命名.md",
     "README.md",
